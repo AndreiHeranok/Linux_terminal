@@ -212,7 +212,7 @@ Cохранить и выйти: "esc" ":wq"
  33. Отправить сразу 2 файла на внешний репозиторий.
                                                      git add . 
                                                      git commit -m "edit new xml"
-                                                     gir push
+                                                     git push
 
  34. На веб интерфейсе создать файл bug_report.xml.  - Add file
 							    - Create new file
